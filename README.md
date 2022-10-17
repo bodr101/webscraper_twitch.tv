@@ -4,5 +4,5 @@ This GitHub repository includes a python code that scrapes the "about" pages of 
 The code can be run, entirely top-down, in Jupyter Notebook. 
 
 Feel free to reach out to us if there are any questions about the code by sending an email to:
-b.deruijter@tilburguniversity.edu
+b.deruijter@tilburguniversity.edu\
 p.j.devries@tilburguniversity.edu
